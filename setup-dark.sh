@@ -7,5 +7,5 @@ python3 anim.py
 
 
 
-
+chmod +x anim.sh
 ./anim.sh
